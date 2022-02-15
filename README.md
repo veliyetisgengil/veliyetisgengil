@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [veliyetisgengil.github.io](veliyetisgengil.github.io)
 
-- 💬 Ask me about **Docker,Asp.net,RabbitMQ,MSSQL,REDIS**
+- 💬 Ask me about **Docker,Asp.net,RabbitMQ,Mssql,Redis,Couchbase,ElasticSearch**
 
 - 📫 How to reach me **yetisgengil_veli@hotmail.com**
 
